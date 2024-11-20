@@ -94,12 +94,12 @@ header nav ul li a {
 /********  MAIN STYLES ********/
 /******** TOP SECTION ********/
 /* The widths are in a percentage! */
+
 .main-image img {
 	width: 100%;
 	border-top: 3px solid #77A466;
 	border-bottom: 3px solid #77a466;
 }
-
 
 .main-title h2 {
 	color: #45610E;
@@ -123,21 +123,23 @@ header nav ul li a {
 .section-three {
 	box-sizing: border-box;
 	padding: 0 40px;
-	width: 100%;
 }
 
 .section-one {
 	/* width: 29%; */
+	width: 100%;
 }
 
 .section-two {
 	/* width: 42%; */
 	border-top: 5px solid #EEE;
 	border-bottom: 5px solid #EEE;
+	width: 100%;
 }
 
 .section-three {
 	/* width: 29%; */
+	width: 100%;
 }
 
 .bottom-section h3 {
